@@ -3,8 +3,6 @@ package activiteMQ;
 public class MessageSender {
 	
 	/*
-	
-	
 	// 发送次数
     public static final int SEND_NUM = 5;
     // tcp 地址
